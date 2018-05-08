@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Language/DroidSansFallback.ttf</file>
+    </qresource>
+</RCC>

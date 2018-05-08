@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomControl/AppCamera.qml</file>
+        <file>CustomControl/FlatButton.qml</file>
+        <file>../qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
